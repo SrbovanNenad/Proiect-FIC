@@ -1,0 +1,66 @@
+\#ENG_OIL_TEMP
+
+ID= '0x269', Byte= '3', Bit_start= '0', Bit_stop= '7'
+
+\#OIL_PRESS
+
+ID= '0x147', Byte= '3', Bit_start= '0', Bit_stop= '7'
+
+\#ENG_COOL_TEMP
+
+ID= '0x2B9', Byte= '4', Bit_start= '0', Bit_stop= '7'
+
+\#INTK_AIR_TEMP
+
+ID= '0x2B9', Byte= '3', Bit_start= '0', Bit_stop= '7'
+
+\#VEH_SPD (first byte)
+
+ID= '0x309', Byte= '6', Bit_start= '0', Bit_stop= '7'
+
+\#VEH_SPD (second byte)
+
+ID= '0x309', Byte= '7', Bit_start= '0', Bit_stop= '3'
+
+\#BOOST_PRESS
+
+ID= '0x141', Byte= '6', Bit_start= '3', Bit_stop= '7'
+
+\#SUP_BAT
+
+ID= '0x122', Byte= '0', Bit_start= '0', Bit_stop= '7'
+
+\#TANK_LVL
+
+ID= '0x21D', Byte= '3', Bit_start= '0', Bit_stop= '6'
+\#TIPR_FL
+
+ID= '0x409', Byte= '2', Bit_start= '0', Bit_stop= '7'
+
+\#TIPR_FR
+
+ID= '0x409', Byte= '3', Bit_start= '0', Bit_stop= '7'
+
+\#TIPR_RL
+
+ID= '0x409', Byte= '1', Bit_start= '0', Bit_stop= '7'
+
+\#TIPR_RR
+
+ID= '0x409', Byte= '0', Bit_start= '0', Bit_stop= '7'
+
+\#TITMP_FL
+
+ID= '0x407', Byte= '0', Bit_start= '0', Bit_stop= '7'
+
+\#TITMP_FR
+
+ID= '0x407', Byte= '1', Bit_start= '0', Bit_stop= '7'
+
+\#TITMP_RL
+
+ID= '0x407', Byte= '2', Bit_start= '0', Bit_stop= '7'
+
+\#TITMP_RR
+
+ID= '0x407', Byte= '3', Bit_start= '0', Bit_stop= '7'
